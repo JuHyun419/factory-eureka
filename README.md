@@ -6,7 +6,7 @@
 
 ### How to run
 ```shell
-1. git clone https://github.com/JuHyun419/factory-eureka.git
+1. git clone https://github.com/factory-msa/factory-eureka.git
 2. ./gradlew build
 3. http://localhost:8761/
 ```
