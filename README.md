@@ -11,8 +11,11 @@
 3. http://localhost:8761/
 ```
 
+### localhost:8761
+![image](https://github.com/factory-msa/factory-coupon/assets/50076031/b3afc8c9-2683-4057-8dfe-b576faf8398f)
+
 ![image](https://github.com/JuHyun419/factory-eureka/assets/50076031/552dd86b-f6b9-429a-b06e-3b569a3ac11c)
 - https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/
 
-### docs
+### Docs
 - https://docs.spring.io/spring-cloud-netflix/docs/current/reference/html/#service-discovery-eureka-clients
